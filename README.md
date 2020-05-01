@@ -1,1 +1,1 @@
-# Ejercicios Resueltos de R del Libro R "The Book of R" de Tilman M. Davies
+# Ejercicios resueltos de R del libro "The Book of R" de Tilman M. Davies
